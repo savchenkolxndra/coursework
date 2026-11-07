@@ -1,0 +1,16 @@
+# віртуальне середовище
+.venv/
+
+# кеш Python
+__pycache__/
+*.pyc
+і
+# секрети
+.env
+.streamlit/secrets.toml
+
+# бази з реальними даними
+data/*.db
+
+# IDE
+.vscode/
